@@ -21,7 +21,7 @@
     </div>
 
 <footer>
-    <p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan Directionné par Thomas Vinchent et fait à AIFOR à ETAPLES SUR MER dans le 62630 vers ~15h30. Il fait relativement beau, il y a du soleil et il fait très froid mais il ne pleut pas. La température dehors est d'envoirons 3, 4°.</p>
+    <p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan Directionné par Thomas Vinchent et fait à AIFOR à ETAPLES SUR MER dans le 62630.</p>
 </footer>
 </body>
 </html>

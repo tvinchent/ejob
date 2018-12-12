@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Cairo" rel="stylesheet">
+    <link rel="stylesheet" href="./css/commun.css">
     <title>Page de listing</title>
 </head>
 <body>
@@ -20,6 +20,8 @@
         </ul>
     </div>
 
-<footer><p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan Directionné par Thomas Vinchent et fait à AIFOR à ETAPLES SUR MER dans le 62630 vers ~15h30. Il fait relativement beau, il y a du soleil et il fait très froid mais il ne pleut pas. La température dehors est d'envoirons 3, 4°.</p></footer>
+<footer>
+    <p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan Directionné par Thomas Vinchent et fait à AIFOR à ETAPLES SUR MER dans le 62630 vers ~15h30. Il fait relativement beau, il y a du soleil et il fait très froid mais il ne pleut pas. La température dehors est d'envoirons 3, 4°.</p>
+</footer>
 </body>
 </html>

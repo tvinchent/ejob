@@ -1,5 +1,13 @@
-@font-face {
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+body {
     font-family: 'Cairo', sans-serif;
+}
+header {
+    background-image: url("../images/header-image.jpg");
+    height: 400px;
+    overflow: hidden;
+    
 }
 
 footer {

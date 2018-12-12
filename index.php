@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<div><img src="./images-listing/header-image.jpg" alt=""></div>
+<div><img src="./images/header-image.jpg" alt=""></div>
 
 
 <div class="date-listing"><p>Année <span class="years-listing">(mettre la date)</span></p></div>

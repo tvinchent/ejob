@@ -1,9 +1,49 @@
 @import url('https://fonts.googleapis.com/css?family=Cairo');
 
 body {
-    font-family: 'Cairo', sans-serif;
-    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
-}
+	width: 100wh;
+	height: 90vh;
+	color: #fff;
+	background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+	background-size: 400% 400%;
+	-webkit-animation: Gradient 15s ease infinite;
+	-moz-animation: Gradient 15s ease infinite;
+    animation: Gradient 15s ease infinite;}
+    @-webkit-keyframes Gradient {
+        0% {
+            background-position: 0% 50%
+        }
+        50% {
+            background-position: 100% 50%
+        }
+        100% {
+            background-position: 0% 50%
+        }
+    }
+    
+    @-moz-keyframes Gradient {
+        0% {
+            background-position: 0% 50%
+        }
+        50% {
+            background-position: 100% 50%
+        }
+        100% {
+            background-position: 0% 50%
+        }
+    }
+    
+    @keyframes Gradient {
+        0% {
+            background-position: 0% 50%
+        }
+        50% {
+            background-position: 100% 50%
+        }
+        100% {
+            background-position: 0% 50%
+        }
+    }
 header {
     background-image: url("../images/header-image.jpg");
     height: 400px;
@@ -56,21 +96,53 @@ footer {
     border-color:black;
     border-radius: 10px;
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
-    background-color: #87CEFA;
+    background-color: 	#00BFFF;
     width: 75%;
    margin: auto;
    margin-top: 50px;
    
 }
 .change{
-    padding: 0.8%;
-    display:flex;
-    margin-left: 80%;
-    border-radius: 5px;
-    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c)
+    padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: rgb(52, 138, 196);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
     
+}
+.change:hover {background-color:rgb(39, 104, 148)}
+
+.change:active {
+  background-color: #2748b4;
+  box-shadow: 0 5px rgba(102, 102, 102, 0.555);
+  transform: translateY(4px);
 }
 .change a{
     text-decoration: none;
     color: black;
+}
+.contenue{
+-webkit-animation:flipinx 2s linear 0s 1 normal;
+-moz-animation:flipinx 2s linear 0s 1 normal;
+-ms-animation:flipinx 2s linear 0s 1 normal;
+animation:flipinx 2s linear 0s 1 normal;
+}
+
+@-webkit-keyframes flipinx {
+0%{ opacity: 0; -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(90deg); }
+40%{ -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(-10deg); }
+70%{ -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(10deg); }
+100%{ opacity: 1; -webkit-transform: perspective(400px) rotateX(0deg); transform: perspective(400px) rotateX(0deg); }
+}
+
+@keyframes flipinx {
+0%{ opacity: 0; transform: perspective(400px) rotateX(90deg); }
+40%{ transform: perspective(400px) rotateX(-10deg); }
+70%{ transform: perspective(400px) rotateX(10deg); }
+100%{ opacity: 1; transform: perspective(400px) rotateX(0deg); }
 }

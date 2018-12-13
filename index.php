@@ -20,6 +20,7 @@
 
     <div class="div-listing">
         <ul class="ul-listing">
+            <div class="CV">
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Thomas Passeleu</a></li>
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Vincent Descharles</a></li>
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Antoine Thomas</a></li>
@@ -31,6 +32,7 @@
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Jessy Jeannin</a></li>
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Maxime Arbouille</a></li>
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Bryan Reisenleiter</a></li>
+        </div>
         </ul>
     </div>
     <button class="change"><a href="./formulaire.html">Contactez-nous</a></button>

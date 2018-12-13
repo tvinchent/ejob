@@ -66,4 +66,11 @@ footer {
     padding: 0.8%;
     display:flex;
     margin-left: 80%;
+    border-radius: 5px;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c)
+    
+}
+.change a{
+    text-decoration: none;
+    color: black;
 }

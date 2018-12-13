@@ -19,30 +19,3 @@ footer {
     color: white;
     text-align: center;
   }
-
-
-  /*****************************************/
-  /****************FORMULAIRE***************/
-  /*****************************************/
-
-
-
-.formul {
-    margin: auto;
-  }
-
-.lastname {
-    display: block;
-}
-
-.firstname {
-    display: block;
-}
-
-.mail {
-    display: block;
-}
-
-#messagearea {
-    display: 
-}

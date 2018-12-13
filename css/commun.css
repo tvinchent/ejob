@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Cairo', sans-serif;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
 }
 header {
     background-image: url("../images/header-image.jpg");

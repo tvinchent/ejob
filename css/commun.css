@@ -146,3 +146,11 @@ animation:flipinx 2s linear 0s 1 normal;
 70%{ transform: perspective(400px) rotateX(10deg); }
 100%{ opacity: 1; transform: perspective(400px) rotateX(0deg); }
 }
+footer {
+    opacity:0.3;
+    transition-duration: 1s;
+    }
+    footer:hover {
+    transition-duration: 1s;
+      opacity:1;
+    }

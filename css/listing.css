@@ -1,15 +1,20 @@
-.date-listing{
-    display: inline;
-}
 .date-listing a {
-    justify-content: space-between;
+    display: inline-flex;
+    width: 100px;
+}
+.date-listing{
+    display: inline-flex;
+    justify-items: space-around;
+    margin-left: 35%;
 }
 .year-listing{
     display: inline;
     justify-content: space-between;
     text-decoration: none;
     color:white;
-    
+    padding: 1.5%;
+    margin-left: 5%;
+    margin-right: 2%;
 }
 #active{
     border-bottom: 1px solid yellow;
@@ -19,10 +24,15 @@
 
 }
 
-.ul-listing{
-
+.ul-listing li{
+    list-style-type:none;
+    margin:1.2%;
 }
-
-.trombinoscope{
-
+.ul-listing li a{
+    text-decoration: none;
+    color: white;
+}
+.ul-listing li a:hover{
+    color: black;
+    border-bottom: 0.5px solid black;
 }

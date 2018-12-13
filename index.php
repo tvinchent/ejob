@@ -19,20 +19,23 @@
 
     <div class="div-listing">
         <ul class="ul-listing">
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Tomas Passeleu</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Vincent Descharles</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Antoine Thomas</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Marc Boucher</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Théo Guérinot</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Aymeric Delcampe</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Rémi Mouillard</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Jonathan Macret</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Jesse Jeannin</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Maxime Arbouille</li>
-            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Bryan Reisenleiter</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Tomas Passeleu</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Vincent Descharles</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Antoine Thomas</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Marc Boucher</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Théo Guérinot</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Aymeric Delcampe</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Rémi Mouillard</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Jonathan Macret</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Jesse Jeannin</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Maxime Arbouille</li><br/>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Bryan Reisenleiter</li><br/>
         </ul>
     </div>
     </div>
-<footer><p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan Directionné par Thomas Vinchent</p></footer>
+   <br/>
+   <br/>
+   <br/>
+    <footer><p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan Directionné par Thomas Vinchent</p></footer>
 </body>
 </html>

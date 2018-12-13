@@ -53,7 +53,7 @@
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Bryan Reisenleiter</a></li>
         </ul>
     </div>
-
+</div>
 <footer>
     <p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan. Dirigé par Thibault Vinchent</p>
 </footer>

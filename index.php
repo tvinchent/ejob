@@ -19,17 +19,17 @@
 
     <div class="div-listing">
         <ul class="ul-listing">
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
-            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Tomas Passeleu</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Vincent Descharles</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Antoine Thomas</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Marc Boucher</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Théo Guérinot</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Aymeric Delcampe</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Rémi Mouillard</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Jonathan Macret</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Jesse Jeannin</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Maxime Arbouille</li>
+            <img class="trombinoscope" src="images/cv.png" alt=""><li class="li-listing">Bryan Reisenleiter</li>
         </ul>
     </div>
 

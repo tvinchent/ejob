@@ -6,6 +6,7 @@
     display: inline-flex;
     justify-items: space-around;
     margin-left: 35%;
+    text-align: center;
 }
 .year-listing{
     display: inline;
@@ -21,6 +22,7 @@
     box-shadow: 0 2px 0 0 yellow;
 }
 .div-listing{
+    text-align: center;
 
 }
 li {

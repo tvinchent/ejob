@@ -105,30 +105,20 @@ footer {
    padding-bottom: 50px;
    
 }
-.change{
-    padding: 15px 25px;
-  font-size: 24px;
-  text-align: center;
-  cursor: pointer;
-  outline: none;
-  color: #fff;
-  background-color: rgb(52, 138, 196);
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 9px #999;
-    
-}
-.change:hover {background-color:rgb(39, 104, 148)}
-
-.change:active {
-  background-color: #2748b4;
-  box-shadow: 0 5px rgba(102, 102, 102, 0.555);
-  transform: translateY(4px);
-}
-.change a{
+.button {
+    background-color: rgba(62, 114, 211, 0.986);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
     text-decoration: none;
-    color: black;
-}
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+  }
+  a {
+      color: white;
+  }
 .contenue{
 -webkit-animation:flipinx 2s linear 0s 1 normal;
 -moz-animation:flipinx 2s linear 0s 1 normal;

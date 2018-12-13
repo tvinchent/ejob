@@ -116,9 +116,11 @@ footer {
     font-size: 16px;
     border-radius: 4px;
   }
-  a {
-      color: white;
-  }
+  .text_button {
+    color: white; 
+}
+
+
 .contenue{
 -webkit-animation:flipinx 2s linear 0s 1 normal;
 -moz-animation:flipinx 2s linear 0s 1 normal;

@@ -19,3 +19,45 @@ footer {
     color: white;
     text-align: center;
   }
+
+
+  /*****************************************/
+  /****************FORMULAIRE***************/
+  /*****************************************/
+
+
+
+.formul {
+    margin: auto;
+  }
+
+.lastname {
+    display: block;
+}
+
+.firstname {
+    display: block;
+}
+
+.mail {
+    display: block;
+}
+
+
+
+.contenue {
+    margin: 20px;
+    padding: 30px;
+    font-size: small;
+    text-align: left;
+    border-width:1px;
+    border-style:inset;
+    border-color:black;
+    border-radius: 10px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    background-color: #87CEFA;
+    width: 75%;
+   margin: auto;
+   margin-top: 50px;
+   
+}

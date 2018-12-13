@@ -35,7 +35,7 @@
         </div>
         </ul>
     </div>
-    <button class="change"><a href="./formulaire.html">Contactez-nous</a></button>
+    <button class="button"><a href="./formulaire.html">Contactez-nous</a></button>
 </div>
 <footer>
     <p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan. Dirigé par Thibault Vinchent</p>

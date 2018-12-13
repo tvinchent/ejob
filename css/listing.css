@@ -1,0 +1,28 @@
+.date-listing{
+    display: inline;
+}
+.date-listing a {
+    justify-content: space-between;
+}
+.year-listing{
+    display: inline;
+    justify-content: space-between;
+    text-decoration: none;
+    color: rgba(16, 100, 133, 0.877);
+    
+}
+#active{
+    border-bottom: 1px solid yellow;
+    box-shadow: 0 2px 0 0 yellow;
+}
+.div-listing{
+
+}
+
+.ul-listing{
+
+}
+
+.trombinoscope{
+
+}

@@ -62,3 +62,8 @@ footer {
    margin-top: 50px;
    
 }
+.change{
+    padding: 0.8%;
+    display:flex;
+    margin-left: 80%;
+}

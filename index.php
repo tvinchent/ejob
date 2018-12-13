@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Cairo" rel="stylesheet">
-    <link rel="stylesheet" href="css/listing.css">
-    <link rel="stylesheet" href="css/commun.css">
+    <link rel="stylesheet" href="./css/listing.css">
+    <link rel="stylesheet" href="./css/commun.css">
     <title>Page de listing</title>
 </head>
 <body>
@@ -23,7 +23,7 @@
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Thomas Passeleu</a></li>
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Vincent Descharles</a></li>
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Antoine Thomas</a></li>
-            <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Marc Boucher</a></li>
+            <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Marc Bouchez</a></li>
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Théo Guérinot</a></li>
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Aymeric Delcampe</a></li>
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Rémi Mouillard</a></li>
@@ -33,6 +33,7 @@
             <li class="li-listing"><a href="https://www.creeruncv.com/sites/default/files/124-cv-pole-emploi.png">Bryan Reisenleiter</a></li>
         </ul>
     </div>
+    <button class="change"><a href="./formulaire.html">Contactez-nous</a></button>
 </div>
 <footer>
     <p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan. Dirigé par Thibault Vinchent</p>

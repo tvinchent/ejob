@@ -62,30 +62,6 @@ footer {
   }
 
 
-  /*****************************************/
-  /****************FORMULAIRE***************/
-  /*****************************************/
-
-
-
-.formul {
-    margin: auto;
-  }
-
-.lastname {
-    display: block;
-}
-
-.firstname {
-    display: block;
-}
-
-.mail {
-    display: block;
-}
-
-
-
 .contenue {
     margin: 20px;
     padding: 30px;

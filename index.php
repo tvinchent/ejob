@@ -3,24 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./commun.css">
     <link href="https://fonts.googleapis.com/css?family=Cairo" rel="stylesheet">
-    <link rel="stylesheet" href="./css/commun.css">
     <title>Page de listing</title>
 </head>
 <body>
 
+<div class="date-listing">
 
+<p>Année <span class="years-listing"><a href="#">2017</a></span></p>
+<p>Année <span class="years-listing"><a href="#">2018</a></span></p>
+<p>Année <span class="years-listing"><a href="#">2019</a></span></p>
 
-<div class="date-listing"><p>Année <span class="years-listing">(mettre la date)</span></p></div>
+</div>
 
     <div class="div-listing">
         <ul class="ul-listing">
-            <li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
+            <img class="trombinoscope" src="" alt=""><li class="li-listing"></li>
         </ul>
     </div>
 
-<footer>
-    <p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan Directionné par Thomas Vinchent et fait à AIFOR à ETAPLES SUR MER dans le 62630.</p>
-</footer>
+<footer><p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan Directionné par Thomas Vinchent</p></footer>
 </body>
 </html>

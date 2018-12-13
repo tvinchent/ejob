@@ -12,19 +12,39 @@
 <body>
     <div class="contenue">
 
-
-    <section>
-        <h2>Formulaire de contact</h2>
-        <form method="POST" action="mail.php" class="formul">
-            <input type="text" label="lastname" class="lastname" placeholder="votre nom ici">
-            <input type="text" label="firstname" class="firstname" placeholder="votre prénom ici">
-            <input type="text" label="mail" class="mail" placeholder="votre adresse mail">
-            <textarea name="message" id="messagearea" cols="30" rows="10" placeholder="votre message ici"></textarea>
-            <input type="button" value="Envoyer" class="submit">
-        </form>
-    </section>
-
-    <button class="change"><a href="./index.php">Retour</a></button>
+            <div class="container">
+                    <form action="action_page.php">
+                      <div class="row">
+                        <div class="col-25">
+                          <label for="fname">Nom :</label>
+                        </div>
+                        <div class="col-75">
+                          <input type="text" id="fname" name="firstname" placeholder="Votre nom">
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-25">
+                          <label for="lname">Prenom :</label>
+                        </div>
+                        <div class="col-75">
+                          <input type="text" id="lname" name="lastname" placeholder="Votre prenom">
+                        </div>
+                      </div>
+                      
+                      <div class="row">
+                        <div class="col-25">
+                          <label for="subject">Message :</label>
+                        </div>
+                        <div class="col-75">
+                          <textarea id="subject" name="subject" placeholder="Votre message" style="height:200px"></textarea>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <input type="submit" value="Envoyer">
+                      </div>
+                    </form>
+                  </div>
+    <button class="button"><a href="./index.php">Retour</a></button>
 </div>
 <footer>
         <p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan. Dirigé par Thibault Vinchent</p>

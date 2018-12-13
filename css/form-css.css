@@ -5,43 +5,64 @@
 
 
 
-section {
-    padding-top: 130px;
-    width: 485px;
-    margin: auto;
-}
-
-.formul {
-    margin: auto;
-}
-
-.formul .lastname, .firstname, .mail{
-    padding: 15px;
-    padding-right: 300px;
-    margin-bottom: 10px;
-    border-radius: 5px 5px;
-    border: solid 0.5px;
-    color: grey;
-    display: block;
-}
-#messagearea {
-    padding: 15px;
-    padding-right: 242px;
-    border-radius: 5px 5px;
-    border: solid 0.5px;
-    color: grey;
-    display: block;
-}
-
-.submit {
-    padding: 10px;
-    background-color: rgb(0, 113, 189);
-    color: white;
-    border: solid;
-    border-radius: 10px;
-    cursor: pointer;
-}
-
-.submit:hover {
+  .submit:hover {
     background-color: rgb(0, 121, 202);
 }
+/* Style inputs, select elements and textareas */
+input[type=text], select, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+  
+  /* Style the label to display next to the inputs */
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+  
+  /* Style the submit button */
+  input[type=submit] {
+    background-color: rgba(62, 114, 211, 0.986);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  /* Style the container */
+
+  
+  /* Floating column for labels: 25% width */
+  .col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+  }
+  
+  /* Floating column for inputs: 75% width */
+  .col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }

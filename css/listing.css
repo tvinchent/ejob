@@ -1,21 +1,14 @@
 .date-listing a {
-    display: inline-flex;
     width: 100px;
 }
 .date-listing{
-    display: inline-flex;
-    justify-items: space-around;
-    margin-left: 35%;
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 .year-listing{
-    display: inline;
-    justify-content: space-between;
     text-decoration: none;
     color:white;
     padding: 1.5%;
-    margin-left: 5%;
-    margin-right: 2%;
 }
 #active{
     border-bottom: 1px solid yellow;
@@ -23,7 +16,6 @@
 }
 .div-listing{
     text-align: center;
-
 }
 li {
     font-size: 150%;

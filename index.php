@@ -9,6 +9,8 @@
     <title>Page de listing</title>
 </head>
 <body>
+
+<h1 class="titre">Listing des stagiaires Développeur Web</h1>
 <div class="contenue">
 <div class="date-listing">
 
@@ -35,10 +37,12 @@
         </div>
         </ul>
     </div>
-    <button class="button" href="formulaire.html"><a class="textbutton" href="formulaire.html">Contactez nous </button>
+    <button class="button" href="formulaire.html"><a class="textbutton" href="formulaire.html">Contactez nous</a></button>
 </div>
+
 <footer>
     <p>(c)Copyright Fait par Thomas, Vincent, Antoine, Marc, Théo, Aymeric, Rémi, Jonathan. Dirigé par Thibault Vinchent</p>
 </footer>
+
 </body>
 </html>
